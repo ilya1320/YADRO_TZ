@@ -1,4 +1,4 @@
-![image](https://github.com/ilya1320/YADRO_TZ/assets/144370505/2ef44acf-06fa-4b01-a50c-4c055ef12c5d)# YADRO_TZ
+# YADRO_TZ
 Запуск программы:
 Запуск программы осуществляется на ОС Linux компилятором gcc.
 
